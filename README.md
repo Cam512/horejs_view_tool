@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+HorejsViewTool::Renderer.copyright 'Cameron Horejs', 'All rights reserved'
+```
 
 ## Development
 
